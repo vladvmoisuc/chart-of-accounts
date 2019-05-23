@@ -1,4 +1,4 @@
-I've created this project because I wanted to understand better the OOP principles in Javascript. Researching led me to the fact that there isn't any project online like this, so I was more motivated to deploy it. 
+I've created this project because I wanted to understand better the OOP principles in Javascript. Researching led me to the fact that there isn't any project online like this, so I was more motivated to deploy it. Using a printed chart of accounts is a hassle. You have to swap pages, turn them around, search the accounts one by one. It's just too much work.
 
 It can be accessed at: http://plandeconturi.net/
 
